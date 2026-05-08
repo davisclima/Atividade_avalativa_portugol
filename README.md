@@ -1,4 +1,4 @@
-# Atividade_avalativa_portugol
+# Atividade avalativa portugol
 ANALISANDO CÓDIGOS
 
 1- Olá Mundo
