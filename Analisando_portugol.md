@@ -8,8 +8,8 @@ ANALISANDO CÓDIGOS
      Esse código imprimiu a mensagem "Olá Mundo" e imediatamente em seguida a mensagem "Como Vai". Apesar de ter sido escrito na linha de baixo, a segunda mensagem foi escrita sem espaço entre a primeira por não ter usado \n. Independente da linha em que o código é escrito, o computador compila sempre o que houver em sequência, independente da forma que estiver escrita.
   
 3- Olá Mundo
-   Como vai
-     Desta vez, se usou \n para direcionar a próxima frase à linha de baixo.
+     Como vai
+      Desta vez, se usou \n para direcionar a próxima frase à linha de baixo.
      
 4- (Imprime o texto que o usuário inserir)
      Criou-se uma variável chamada "nome", em seguida com o comando "leia" pediu um valor a ser atribuído para essa variável, quando o valor for colocado, ele imprime o texto escrito.
